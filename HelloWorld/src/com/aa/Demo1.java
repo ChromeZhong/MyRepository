@@ -1,20 +1,11 @@
 package com.aa;
 
-public class Demo1 {	
+public interface Demo1 {	
 	
 	
-	void user() {
-		
-	}
+void test1();
 
-	void aaa() {
-		
-	}
-	
-	public static void main(String[] args) {
-		System.out.println("helloworld");
-		System.out.println("helloworld1");
+void test2();
 
-	}
 
 }
