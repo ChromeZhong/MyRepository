@@ -2,6 +2,9 @@ package com.aa;
 
 public class Demo1 {	
 	
+	void user1() {
+		
+	}
 	
 	void user() {
 		
@@ -11,6 +14,7 @@ public class Demo1 {
 		System.out.println("helloworld");
 		System.out.println("helloworld1");
 
+		
 	}
 
 }
