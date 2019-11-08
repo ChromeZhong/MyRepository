@@ -2,6 +2,10 @@ package com.aa;
 
 public class Demo1 {	
 	
+	
+	void user() {
+		
+	}
 
 	void aaa() {
 		
